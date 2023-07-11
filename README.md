@@ -4,9 +4,8 @@
 
 لعبة حجر ورق مقص, (Rock Paper Scissors)
 
-1. قم بعمل fork للـ repository
-2. افتح الـ repository باستخدام github desktop
-3. ادخل على برنامج VS code وانشاء ملف تمرين داخل مجلد cw-1 في ال repository
+2. حمل الـ repository (هذا الفولدر)
+3. ادخل على برنامج VS code انشئ ملف تمرين داخل مجلد cw-1 في الفولدر
 4. قم بإنشاء برنامج Flutter جديد و احفظه داخل الملف
 5.  أضف MateiralApp و Scoffold للبرنامج
 6.  قم بإضافة الصور الثلاثة داخل مجلد assets
